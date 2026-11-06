@@ -65,4 +65,4 @@ Desktop.ini
 # Project-specific exclusions
 # --------------------------------------------------
 # Add additional patterns here when necessary.
-# Do not exclude all CSV, SQL, notebook or presentation files.
+# Do not exclude all CSV, notebook or presentation files.
